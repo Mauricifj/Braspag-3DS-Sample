@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Braspag 3DS - Sample</string>
+
+    <!-- MESSAGE -->
+    <string name="message_unsupported_brand">Unsupported brand.</string>
+    <string name="message_challenge_suppressed">Challenge suppressed.</string>
+    <string name="message_error">Authentication error.</string>
+    <string name="message_unenrolled">Card not eligible for authentication.</string>
+    <string name="message_failure">Card holder did not authenticate.</string>
+    <string name="message_success">Card holder successfully authenticated.</string>
+    <string name="message_card_required">Card number required</string>
+
+    <!-- LABEL -->
+    <string name="label_result">RESULT:</string>
+    <string name="label_message">MESSAGE:</string>
+    <string name="label_cavv">CAVV:</string>
+    <string name="label_eci">ECI:</string>
+    <string name="label_xid">XID:</string>
+    <string name="label_version">VERSION:</string>
+    <string name="label_reference_id">REFERENCE ID:</string>
+    <string name="label_error_code">ERROR CODE:</string>
+    <string name="label_error_message">ERROR MESSAGE:</string>
+
+    <!-- GENERAL -->
+    <string name="text_spinner">LOADING…</string>
+    <string name="content_description_card_number">Card Number</string>
+    <string name="hint_card_number">Card Number</string>
+    <string name="button_text_authenticate">AUTHENTICATE</string>
+
+</resources>

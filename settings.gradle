@@ -1,0 +1,2 @@
+rootProject.name='Braspag 3DS - Sample'
+include ':app'
